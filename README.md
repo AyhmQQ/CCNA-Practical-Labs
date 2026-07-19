@@ -9,12 +9,6 @@ To keep things professional and organized, each lab is stored in its own directo
 *   `topology.png`: Visual diagram of the network.
 *   `lab_file.pkt`: The actual Cisco Packet Tracer file.
 
-## 📚 Completed Labs Index
-
-| Lab # | Topic | Key Skills | Link |
-| :--- | :--- | :--- | :--- |
-| 01 | Packet Tracer Intro | Interface Navigation & Device Placement | [View Lab](./Lab_01_Packet_Tracer_Introduction/) |
-
 ---
 **Author:** Ayham Alderbashi
 **Tools:** Cisco Packet Tracer, Cisco IOS CLI
