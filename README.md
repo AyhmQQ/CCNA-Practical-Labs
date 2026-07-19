@@ -1,4 +1,4 @@
-# 🚀 CCNA Practical Labs Portfolio
+#  CCNA Practical Labs
 
 This repository serves as a comprehensive portfolio showcasing practical networking labs completed as part of the Cisco Certified Network Associate (CCNA) certification journey. Each lab demonstrates hands-on proficiency with Cisco Packet Tracer, covering key CCNA topics through detailed topologies, configurations, and step-by-step documentation.
 
