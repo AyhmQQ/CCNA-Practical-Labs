@@ -15,6 +15,7 @@ To keep things professional and organized, each lab is stored in its own directo
 | :--- | :--- | :--- | :--- |
 | 01 | Packet Tracer Intro | Interface Navigation & Device Placement | [View Lab](./Lab_01_Packet_Tracer_Introduction/) |
 | 02 | Cabling & Distances | Copper & Fiber Optic Cabling, Distances | [View Lab](./Lab_02_Cabling_and_Distances/) |
+| 03 | OSI Model Traffic Analysis | Protocol Encapsulation & Simulation Mode | [View Lab](./Lab_03_OSI_Model_Traffic_Analysis/) |
 
 ---
 **Author:** Ayham Alderbashi
