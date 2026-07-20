@@ -21,4 +21,3 @@ The topology represents a multi-site network consisting of:
 
 ## 🔗 Resources
 *   **Lab File:** [Download .pkt file](./lab_file.pkt)
-*   **Video Reference:** [CCNA Course - Lab 1](https://www.youtube.com/watch?v=a1Im6GYaSno&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&index=3 )
