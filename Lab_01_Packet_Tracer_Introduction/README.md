@@ -1,4 +1,6 @@
-# Lab 1: Introduction to Cisco Packet Tracer: Building a Basic Multi-Site Topology
+# Lab 01 — Packet Tracer introduction
+
+[← All labs](../README.md) · [Download lab](./lab_file.pkt)
 
 ## 🎯 Objective
 The primary goal of this lab is to familiarize students with the Cisco Packet Tracer user interface and demonstrate how to build a basic network topology. This lab focuses on hands-on experience in placing, naming, and connecting various network devices.
@@ -21,3 +23,11 @@ The topology represents a multi-site network consisting of:
 
 ## 🔗 Resources
 *   **Lab File:** [Download .pkt file](./lab_file.pkt)
+
+## Review checklist
+
+- [ ] Identify each device by its name and role.
+- [ ] Compare the connected ports and cable types with the topology.
+- [ ] Distinguish a physical connection from verified IP reachability; this introductory lab does not document end-to-end connectivity tests.
+
+These are suggested checks for the learner, not recorded test results.
